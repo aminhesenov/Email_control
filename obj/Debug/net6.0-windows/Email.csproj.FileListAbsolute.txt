@@ -1,0 +1,17 @@
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\Email.exe
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\Email.deps.json
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\Email.runtimeconfig.json
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\Email.dll
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\ref\Email.dll
+D:\C# dersleri\Email\Email\bin\Debug\net6.0-windows\Email.pdb
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.csproj.AssemblyReference.cache
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.Form1.resources
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.csproj.GenerateResource.cache
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.AssemblyInfoInputs.cache
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.AssemblyInfo.cs
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.dll
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\ref\Email.dll
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.pdb
+D:\C# dersleri\Email\Email\obj\Debug\net6.0-windows\Email.genruntimeconfig.cache
